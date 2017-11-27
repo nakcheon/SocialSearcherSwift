@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B5DF6801FCAA2D10081BA5D /* NCVideoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B5DF67F1FCAA2D10081BA5D /* NCVideoListViewController.swift */; };
 		0BA4B4E11FB81F4300120588 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BA4B4E01FB81F4300120588 /* AppDelegate.swift */; };
 		0BA4B4E61FB81F4300120588 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BA4B4E41FB81F4300120588 /* Main.storyboard */; };
 		0BA4B4E81FB81F4300120588 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BA4B4E71FB81F4300120588 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0B5DF67F1FCAA2D10081BA5D /* NCVideoListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NCVideoListViewController.swift; sourceTree = "<group>"; };
 		0BA4B4DD1FB81F4300120588 /* SocialSearcherSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SocialSearcherSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BA4B4E01FB81F4300120588 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0BA4B4E51FB81F4300120588 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				0BA4B4E01FB81F4300120588 /* AppDelegate.swift */,
 				0BA4B4F21FB8201C00120588 /* NCMainGuidedChannelListViewController.swift */,
 				0BA4B4F41FB8240D00120588 /* NCChannelItemCell.swift */,
+				0B5DF67F1FCAA2D10081BA5D /* NCVideoListViewController.swift */,
 				0BA4B4E41FB81F4300120588 /* Main.storyboard */,
 				0BA4B4E71FB81F4300120588 /* Assets.xcassets */,
 				0BA4B4E91FB81F4300120588 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0BA4B4F31FB8201C00120588 /* NCMainGuidedChannelListViewController.swift in Sources */,
+				0B5DF6801FCAA2D10081BA5D /* NCVideoListViewController.swift in Sources */,
 				0BA4B4F51FB8240D00120588 /* NCChannelItemCell.swift in Sources */,
 				0BA4B4E11FB81F4300120588 /* AppDelegate.swift in Sources */,
 			);
